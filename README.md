@@ -1,6 +1,6 @@
 # VapeLex.com
 
-VapeLex.com was an online e-cigarette supply shop with PHP & MySQL backend, Authorize.net API payment gateway, built from the ground up with a custom ajax shopping cart and order management system.
+VapeLex.com was an online e-cigarette supply shop with PHP & MySQL backend and Authorize.net API payment gateway, built from the ground up with a custom ajax shopping cart and order management system, among a number of other painstakingly crafted features. 
 
 This project was written over the course of four months in the summer of 2014 as an attempt to cash in on the new and rapidly growing e-cigarette market at the time. Due to inexperience in marketing and lack of any additional support as the sole proprietor, developer and designer, this shop only ever saw a total of three orders before the start of my freshman year at the University of Kentucky.
 
